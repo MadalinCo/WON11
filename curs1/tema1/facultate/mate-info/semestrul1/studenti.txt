@@ -1,0 +1,8 @@
+ls
+ls
+
+
+
+ls
+cd semestrul1
+$ ls
